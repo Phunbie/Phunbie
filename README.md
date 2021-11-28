@@ -15,8 +15,8 @@ You get many visitors to your website every day, but you know only a small perce
 * **Input:** visitor's action on the website
 * **Output:** Propensity prediction
 
-# [Project 2: Crypto Trading Bot](http://youtube.com/dataprofessor)
-![alt text](maxim-hopman-fiXLQXAhCfk-unsplash.jpg)
+# [Project 2: Energy consumption prediction web app](https://share.streamlit.io/phunbie/my_streamli_prog/main.py)
+![alt text](streamlit-logo-primary-colormark-darktext.png)
 
 Photo by <a href="https://unsplash.com/@nampoh?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Maxim Hopman</a> on <a href="https://unsplash.com/s/photos/cryptocurrency-trading?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 
