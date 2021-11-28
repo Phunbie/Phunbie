@@ -43,3 +43,12 @@ The purpose of Event Recommendation Engine Project, is to predict what events us
 * **Input:** Customer's information
 * **Output:** Whether a customer will be interested in an event or not.
 
+# [Assignments](https://github.com/Phunbie/assignments)
+
+![alt text](jess-bailey-94Ld_MtIUf0-unsplash.jpg)
+
+Photo by <a href="https://unsplash.com/@andrewtneel?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Andrew Neel</a> on <a href="https://unsplash.com/s/photos/assignments?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+   
+You would find most of my datascience assignments that I have been doing from several online courses.
+* **Python libraries used:** Numpy, Pandas, matplotlib, sklearn, seaborn, keras, Tensorflow, os, Shutil
+
