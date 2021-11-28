@@ -34,7 +34,7 @@ Photo by <a href="https://unsplash.com/@hostreviews?utm_source=unsplash&utm_medi
 
 # [Project 4:Event recommendation engine](https://jovian.ai/adeneyeoluwafunbi/event-recommendation-engine-challenge)
 
-![alt text](stephen-phillips-hostreviews-co-uk-em37kS8WJJQ-unsplash.jpg)
+![alt text](jess-bailey-94Ld_MtIUf0-unsplash.jpg)
 
 Photo by <a href="https://unsplash.com/@jessbaileydesigns?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Jess Bailey</a> on <a href="https://unsplash.com/s/photos/events?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
    
