@@ -18,9 +18,5 @@ You get many visitors to your website every day, but you know only a small perce
 # [Project 2: Energy consumption prediction web app](https://share.streamlit.io/phunbie/my_streamli_prog/main.py)
 ![alt text](streamlit-logo-primary-colormark-darktext.png)
 
-Photo by <a href="https://unsplash.com/@nampoh?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Maxim Hopman</a> on <a href="https://unsplash.com/s/photos/cryptocurrency-trading?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
-
-This project makes use of ***sentiment analysis*** of cryptocurrency coupled with ***technical analysis*** in the trading of cryptocurrencies.
-* **Python libraries used:** Streamlit, python-binance, cctx, talib
-* **Input:** Cryptocurrency historical price
-* **Output:** Trading signals triggers buying and selling
+Created this webapp using streamlit library and I also deployed it in the cloud with the help of streamlit cloud. The web app helps in the visualisation of selected data, you can compare different variables and predict energy consumption using different machine learning models, you can also select predictor variables you want to use.
+* **Python libraries used:** Streamlit, Pandas, sklearn, Numpy, Seaborn, Pillow
