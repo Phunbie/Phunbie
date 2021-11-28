@@ -1,5 +1,5 @@
 # Oluwafunbi Adeneye
-*An Aspiring Data Scientist | Data science Nigeria bootcamp finalist(top 25%)*
+*An Aspiring Data Scientist | Data science Nigeria bootcamp 2021 finalist(top 25%)*
 
 # Education
 * Bachelors of Agriculture (Animal Breeding and Genetics), *Federal University of Agriculture Abeokuta*, 2010-2015
