@@ -23,7 +23,7 @@ Created this webapp using streamlit library and I also deployed it in the cloud 
 
 # [Project 3: Credit card approval prediction](https://github.com/Phunbie/credit-card-approval-prediction/blob/production/credit_approval.ipynb)
 
-![alt text](rupixen-com-Q59HmzK38eQ-unsplash.jpg)
+![alt text](stephen-phillips-hostreviews-co-uk-em37kS8WJJQ-unsplash (2).jpg)
 
 Photo by <a href="https://unsplash.com/@hostreviews?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Stephen Phillips - Hostreviews.co.uk</a> on <a href="https://unsplash.com/s/photos/credit-card?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   
