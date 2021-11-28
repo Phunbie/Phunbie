@@ -45,7 +45,7 @@ The purpose of Event Recommendation Engine Project, is to predict what events us
 
 # [Assignments](https://github.com/Phunbie/assignments)
 
-![alt text](jess-bailey-94Ld_MtIUf0-unsplash.jpg)
+![alt text](andrew-neel-cckf4TsHAuw-unsplash.jpg)
 
 Photo by <a href="https://unsplash.com/@andrewtneel?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Andrew Neel</a> on <a href="https://unsplash.com/s/photos/assignments?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
    
