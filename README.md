@@ -20,3 +20,14 @@ You get many visitors to your website every day, but you know only a small perce
 
 Created this webapp using streamlit library and I also deployed it in the cloud with the help of streamlit cloud. The web app helps in the visualisation of selected data, you can compare different variables and predict energy consumption using different machine learning models, you can also select predictor variables you want to use.
 * **Python libraries used:** Streamlit, Pandas, sklearn, Numpy, Seaborn, Pillow
+
+# [Project 3: Credit card approval prediction](https://github.com/Phunbie/credit-card-approval-prediction/blob/production/credit_approval.ipynb)
+
+![alt text](rupixen-com-Q59HmzK38eQ-unsplash.jpg)
+
+Photo by <a href="https://unsplash.com/@hostreviews?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Stephen Phillips - Hostreviews.co.uk</a> on <a href="https://unsplash.com/s/photos/credit-card?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  
+ As a Financial institution you want to offer credit card to customers but you need to be sure that high percentage of customers you offer the credit card won't default. This project helps predict customers that have a low chance of defaulting which can help in selecting customers for credit card approval.
+* **Python libraries and Framework used:** Docker, gunicorn, Flask, Pandas, Pipenv, matplotlib, sklearn, seaborn, pickle
+* **Input:** visitor's action on the website
+* **Output:** Propensity prediction
