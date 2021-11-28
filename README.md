@@ -6,7 +6,7 @@
 
 # [Customer propensity to purchase](https://github.com/Phunbie/midterm_prog1)
 
-![alt text](andre-francois-mckenzie-iGYiBhdNTpE-unsplash.jpg)
+![alt text](rupixen-com-Q59HmzK38eQ-unsplash.jpg)
 
 Photo by <a href="https://unsplash.com/@rupixen?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">rupixen.com</a> on <a href="https://unsplash.com/s/photos/customer-purchase?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   
