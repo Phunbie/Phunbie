@@ -38,7 +38,7 @@ Photo by <a href="https://unsplash.com/@hostreviews?utm_source=unsplash&utm_medi
 
 Photo by <a href="https://unsplash.com/@jessbaileydesigns?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Jess Bailey</a> on <a href="https://unsplash.com/s/photos/events?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
    
-The purpose of Event Recommendation Engine Project, is to predict what events users will be interested in based on events they’ve responded to in the past, user demographic information, and what events they’ve seen and clicked on in an app. If there is a need to improve the algorithm, new relevant column might be added to improve the algorithm. The insights that will be discovered from this data, and the algorithms created should help the improvement of the event recommendation algorithm, a core part of the applications and a key element in improving user experience.
+The purpose of Event Recommendation Engine Project, is to predict what events users will be interested in based on events they’ve responded to in the past, user demographic information, and what events they’ve seen and clicked on in an app.
 * **Python libraries used:** os, Pandas, matplotlib, sklearn, seaborn,plotly
 * **Input:** Customer's information
 * **Output:** Whether a customer will be interested in an event or not.
