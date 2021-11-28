@@ -2,7 +2,7 @@
 *An Aspiring Data Scientist | Data science Nigeria bootcamp finalist(top 25%)*
 
 # Education
-* Bachelors of Science (Data Science), *Federal University of Agriculture Abeokuta*, 2010-2015
+* Bachelors of Agriculture (Animal Breeding and Genetics), *Federal University of Agriculture Abeokuta*, 2010-2015
 
 # [Project 1: Customer propensity to purchase](https://github.com/Phunbie/midterm_prog1)
 
