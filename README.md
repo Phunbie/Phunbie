@@ -30,7 +30,7 @@ Photo by <a href="https://unsplash.com/@hostreviews?utm_source=unsplash&utm_medi
  As a Financial institution you want to offer credit card to customers but you need to be sure that high percentage of customers you offer the credit card won't default. This project helps predict customers that have a low chance of defaulting which can help in selecting customers for credit card approval.
 * **Python libraries used:** Numpy, Pandas, matplotlib, sklearn, seaborn
 * **Input:** Customer's information
-* **Output:** suitability for credit cart approval
+* **Output:** suitability for credit card approval
 
 # [Project 4:Event recommendation engine](https://jovian.ai/adeneyeoluwafunbi/event-recommendation-engine-challenge)
 
