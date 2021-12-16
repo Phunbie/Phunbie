@@ -11,7 +11,7 @@
 Photo by <a href="https://unsplash.com/@malmanxx?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">malmanxx</a> on <a href="https://unsplash.com/s/photos/cassava-plant?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   
   
-In this project I used  convolutional neural networks to train a model that can predict if a cassava  has a certain disease based on the picture of the cassava plant. I later had to use data augmentation and transfer learning to improve my accuracy.
+In this project, I used  convolutional neural networks to train a model that can predict if a cassava  has a certain disease based on the picture of the cassava plant. I later had to use data augmentation and transfer learning to improve my accuracy.
 * **Python libraries and Framework used:** Docker, Pandas, matplotlib, sklearn, seaborn, Keras, Tensorflow
 * **Machine learning Algorithms used:** Convolutional neural network,
 * **Input:** Photo of the cassava plant
