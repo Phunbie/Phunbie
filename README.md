@@ -66,4 +66,4 @@ Photo by <a href="https://unsplash.com/@andrewtneel?utm_source=unsplash&utm_medi
 You would find most of my datascience assignments that I have been doing from several online courses.
 * **Python libraries used:** Numpy, Pandas, matplotlib, sklearn, seaborn, keras, Tensorflow, os, Shutil
 
-You can view my LinkedIn profile [here](https://www.linkedin.com/in/oluwafunbi-adeneye-811301184)
+You can view my LinkedIn profile [here](https://www.linkedin.com/in/oluwafunbi-adeneye-811301184), you can also see my medium post on [how to access Jupyter Notebook offline on your phone.](https://link.medium.com/AvCKWquZ1lb)
