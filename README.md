@@ -6,7 +6,7 @@
 
 # [Project 1: Cassava leaf disease classification using CNN](https://github.com/Phunbie/Caps)
 
-![alt text](rupixen-com-Q59HmzK38eQ-unsplash.jpg)
+![alt text](malmanxx-Ne702NiB3xo-unsplash.jpg)
 
 Photo by <a href="https://unsplash.com/@malmanxx?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">malmanxx</a> on <a href="https://unsplash.com/s/photos/cassava-plant?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   
