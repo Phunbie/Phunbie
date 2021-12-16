@@ -8,7 +8,7 @@
 
 ![alt text](rupixen-com-Q59HmzK38eQ-unsplash.jpg)
 
-Photo by <a href="Photo by <a href="https://unsplash.com/@malmanxx?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">malmanxx</a> on <a href="https://unsplash.com/s/photos/cassava-plant?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+Photo by <a href="https://unsplash.com/@malmanxx?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">malmanxx</a> on <a href="https://unsplash.com/s/photos/cassava-plant?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   
   
 In this project I used  convolutional neural networks to train a model that can predict if a cassava  has a certain disease based on the picture of the cassava plant. I later had to use data augmentation and transfer learning to improve my accuracy.
