@@ -6,7 +6,7 @@
 
 # [Project 1: AWS static web project](https://github.com/Phunbie/static-website)
 
-![alt text](malmanxx-Ne702NiB3xo-unsplash.jpg)
+![alt text](photo-1628573413574-2b35620de9d7.jpeg)
 
 Photo by <a href="https://unsplash.com/@malmanxx?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">malmanxx</a> on <a href="https://unsplash.com/s/photos/cassava-plant?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   
