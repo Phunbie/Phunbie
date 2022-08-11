@@ -4,7 +4,22 @@
 # Education
 * Bachelors of Agriculture (Animal Breeding and Genetics), *Federal University of Agriculture Abeokuta*, 2010-2015
 
-# [Project 1: Cassava leaf disease classification using CNN](https://github.com/Phunbie/Caps)
+# [Project 1: AWS static web project](https://github.com/Phunbie/static-website)
+
+![alt text](malmanxx-Ne702NiB3xo-unsplash.jpg)
+
+Photo by <a href="https://unsplash.com/@malmanxx?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">malmanxx</a> on <a href="https://unsplash.com/s/photos/cassava-plant?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  
+
+This project is about hosting a static website. In this project I deployed a static website to AWS 
+by performing the following steps.
+* Created a public S3 bucket and uploaded website files to my bucket.
+* Next I configured the bucket for website hosting and secured it using IAM policies. 
+* Then sped up content delivery using content distribution network service (CloudFront)
+* Finally accessed my website in a browser.
+
+
+# [Project 2: Cassava leaf disease classification using CNN](https://github.com/Phunbie/Caps)
 
 ![alt text](malmanxx-Ne702NiB3xo-unsplash.jpg)
 
@@ -17,7 +32,7 @@ In this project, I used  convolutional neural networks to train a model that can
 * **Input:** Photo of the cassava plant
 * **Output:** Disease prediction
 
-# [Project 2: Customer propensity to purchase](https://github.com/Phunbie/midterm_prog1)
+# [Project 3: Customer propensity to purchase](https://github.com/Phunbie/midterm_prog1)
 
 ![alt text](rupixen-com-Q59HmzK38eQ-unsplash.jpg)
 
@@ -29,13 +44,13 @@ You get many visitors to your website every day, but you know only a small perce
 * **Input:** visitor's action on the website
 * **Output:** Propensity prediction
 
-# [Project 3: Energy consumption prediction web app](https://share.streamlit.io/phunbie/my_streamli_prog/main.py)
+# [Project 4: Energy consumption prediction web app](https://share.streamlit.io/phunbie/my_streamli_prog/main.py)
 ![alt text](streamlit-logo-primary-colormark-darktext.png)
 
 Created this webapp using streamlit library and I also deployed it in the cloud with the help of streamlit cloud. The web app helps in the visualisation of selected data, you can compare different variables and predict energy consumption using different machine learning models, you can also select predictor variables you want to use.
 * **Python libraries used:** Streamlit, Pandas, sklearn, Numpy, Seaborn, Pillow
 
-# [Project 4: Credit card approval prediction](https://github.com/Phunbie/credit-card-approval-prediction/blob/production/credit_approval.ipynb)
+# [Project 5: Credit card approval prediction](https://github.com/Phunbie/credit-card-approval-prediction/blob/production/credit_approval.ipynb)
 
 ![alt text](stephen-phillips-hostreviews-co-uk-em37kS8WJJQ-unsplash.jpg)
 
@@ -46,7 +61,7 @@ Photo by <a href="https://unsplash.com/@hostreviews?utm_source=unsplash&utm_medi
 * **Input:** Customer's information
 * **Output:** suitability for credit card approval
 
-# [Project 5:Event recommendation engine](https://jovian.ai/adeneyeoluwafunbi/event-recommendation-engine-challenge)
+# [Project 6:Event recommendation engine](https://jovian.ai/adeneyeoluwafunbi/event-recommendation-engine-challenge)
 
 ![alt text](jess-bailey-94Ld_MtIUf0-unsplash.jpg)
 
