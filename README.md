@@ -3,6 +3,7 @@
 
 # Education
 * Bachelors of Agriculture (Animal Breeding and Genetics), *Federal University of Agriculture Abeokuta*, 2010-2015
+* Several MOOC courses on programming, Machine Learning, Data Science and software engineer.
 
 # [Project 1: AWS static web project](https://github.com/Phunbie/static-website)
 
