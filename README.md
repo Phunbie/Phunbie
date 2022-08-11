@@ -8,8 +8,8 @@
 
 ![alt text](photo-1628573413574-2b35620de9d7.jpeg)
 
-Photo by <a href="https://unsplash.com/@malmanxx?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">malmanxx</a> on <a href="https://unsplash.com/s/photos/cassava-plant?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
-  
+Photo by <a href="https://unsplash.com/@photophotostock?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Kirill Tonkikh</a> on <a href="https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+    
 
 This project is about hosting a static website. In this project I deployed a static website to AWS 
 by performing the following steps.
