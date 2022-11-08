@@ -1,5 +1,5 @@
 # Oluwafunbi Adeneye
-*An Aspiring Data Scientist | Data science Nigeria bootcamp 2021 finalist(top 25%) | [Portfolio](https://oluwafunbi.netlify.app/)* | [LinkedIn](https://www.linkedin.com/in/oluwafunbiadeneye) | [Hugging Face](https://huggingface.co/Funbi)
+* Python Developer | Machine Learning Engineer | Data science Nigeria bootcamp 2021 finalist(top 25%) | [Portfolio](https://oluwafunbi.netlify.app/)* | [LinkedIn](https://www.linkedin.com/in/oluwafunbiadeneye) | [Hugging Face](https://huggingface.co/Funbi)
 
 # Education
 * Several MOOC courses on programming, Machine Learning, Data Science and software engineering.
