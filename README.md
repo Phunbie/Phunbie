@@ -5,7 +5,7 @@
 * Several MOOC courses on programming, Machine Learning, Data Science and software engineering.
 * Bachelors of Agriculture (Animal Breeding and Genetics), *Federal University of Agriculture Abeokuta*, 2010-2015
 
-# [Project 1: Django blog webapp](oluwafunbi.pythonanywhere.com)
+# [Project 1: Django blog webapp](http://oluwafunbi.pythonanywhere.com/)
 
 ![alt text](django.jpg)
     
