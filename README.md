@@ -7,7 +7,7 @@
 
 # [Project 1: Django blog webapp](oluwafunbi.pythonanywhere.com)
 
-![alt text](image-2.png.png)
+![alt text](django.jpg)
     
 
 This project is a blog posting webapp where you can log in, write, post and edit your blog posts. I used Django framework for building this webapp, I hosted it on python anywhere.
@@ -16,7 +16,7 @@ This project is a blog posting webapp where you can log in, write, post and edit
 
 # [Project 1: Flask CRUD web app(Job posting website)](https://flask-webapp.onrender.com/)
 
-![alt text](image-2.png.png)
+![alt text](image-2.png)
     
 
 I created a CRUD website where one can sign in , post a job that will appear on the homepage for everyone to see. For this project I had to use Flask python library, HTML,  sqlite, CSS and bootstrap. I also hosted it on a cloud platform.
