@@ -7,9 +7,7 @@
 
 # [Project 1: Flask CRUD web app(Job posting website](https://flask-webapp.onrender.com/)
 
-![alt text](photo-1628573413574-2b35620de9d7.jpeg)
-
-Photo by <a href="https://unsplash.com/@photophotostock?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Kirill Tonkikh</a> on <a href="https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+![alt text](images (2).png)
     
 
 I created a CRUD website where one can sign in , post a job that will appear on the homepage for everyone to see. For this project I had to use Flask python library, HTML,  sqlite, CSS and bootstrap. I also hosted it on a cloud platform.
