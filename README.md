@@ -5,6 +5,15 @@
 * Several MOOC courses on programming, Machine Learning, Data Science and software engineering.
 * Bachelors of Agriculture (Animal Breeding and Genetics), *Federal University of Agriculture Abeokuta*, 2010-2015
 
+# [Project 1: Django blog webapp](oluwafunbi.pythonanywhere.com)
+
+![alt text](image-2.png.png)
+    
+
+This project is a blog posting webapp where you can log in, write, post and edit your blog posts. I used Django framework for building this webapp, I hosted it on python anywhere.
+
+
+
 # [Project 1: Flask CRUD web app(Job posting website)](https://flask-webapp.onrender.com/)
 
 ![alt text](image-2.png.png)
