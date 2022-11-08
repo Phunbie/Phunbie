@@ -5,9 +5,9 @@
 * Several MOOC courses on programming, Machine Learning, Data Science and software engineering.
 * Bachelors of Agriculture (Animal Breeding and Genetics), *Federal University of Agriculture Abeokuta*, 2010-2015
 
-# [Project 1: Flask CRUD web app(Job posting website](https://flask-webapp.onrender.com/)
+# [Project 1: Flask CRUD web app(Job posting website)](https://flask-webapp.onrender.com/)
 
-![alt text](images (2).png)
+![alt text](image-2.png.png)
     
 
 I created a CRUD website where one can sign in , post a job that will appear on the homepage for everyone to see. For this project I had to use Flask python library, HTML,  sqlite, CSS and bootstrap. I also hosted it on a cloud platform.
