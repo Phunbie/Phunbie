@@ -2,7 +2,7 @@
 *Python Developer | Machine Learning Engineer | Data science Nigeria bootcamp 2021 finalist(top 25%) | [Portfolio](https://oluwafunbi.netlify.app/)* | [LinkedIn](https://www.linkedin.com/in/oluwafunbiadeneye) | [Hugging Face](https://huggingface.co/Funbi)
 
 # Education
-* Several MOOC courses on programming, Machine Learning, Data Science and software engineering.
+* Several MOOCs on programming, Machine Learning, Data Science and software engineering.
 * Bachelors of Agriculture (Animal Breeding and Genetics), *Federal University of Agriculture Abeokuta*, 2010-2015
 
 # [Project 1: Django blog webapp](http://oluwafunbi.pythonanywhere.com/)
