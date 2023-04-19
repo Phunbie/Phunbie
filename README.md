@@ -5,7 +5,7 @@
 * Several MOOCs on programming, Machine Learning, Data Science and software engineering.
 * Bachelors of Agriculture (Animal Breeding and Genetics), *Federal University of Agriculture Abeokuta*, 2010-2015
 
-# [Project 1: PDF question answering app](http://oluwafunbi.pythonanywhere.com/)
+# [Project 1: PDF question answering app](PDF-question-answering-app)
 
 ![alt text](image-2.png)
     
