@@ -5,7 +5,16 @@
 * Several MOOCs on programming, Machine Learning, Data Science and software engineering.
 * Bachelors of Agriculture (Animal Breeding and Genetics), *Federal University of Agriculture Abeokuta*, 2010-2015
 
-# [Project 1: Django blog webapp](http://oluwafunbi.pythonanywhere.com/)
+# [Project 1: PDF question answering app](http://oluwafunbi.pythonanywhere.com/)
+
+![alt text](image-2.png)
+    
+
+This is a web application that allows users to ask questions about the content of a PDF file and receive answers. The application is built using the Flask microframework,langchain library was also used to help with processing the PDF file and utilisation of the large language model.
+
+
+
+# [Project 2: Django blog webapp](http://oluwafunbi.pythonanywhere.com/)
 
 ![alt text](django.jpg)
     
@@ -14,7 +23,7 @@ This project is a blog posting webapp where you can log in, write, post and edit
 
 
 
-# [Project 2: Flask CRUD web app(Job posting website)](https://flask-webapp.onrender.com/)
+# [Project 3: Flask CRUD web app(Job posting website)](https://flask-webapp.onrender.com/)
 
 ![alt text](image-2.png)
     
@@ -22,7 +31,7 @@ This project is a blog posting webapp where you can log in, write, post and edit
 I created a CRUD website where one can sign in , post a job that will appear on the homepage for everyone to see. For this project I had to use Flask python library, HTML,  sqlite, CSS and bootstrap. I also hosted it on a cloud platform.
 
 
-# [Project 3: AWS static web project](https://github.com/Phunbie/static-website)
+# [Project 4: AWS static web project](https://github.com/Phunbie/static-website)
 
 ![alt text](photo-1628573413574-2b35620de9d7.jpeg)
 
@@ -37,7 +46,7 @@ by performing the following steps.
 * Finally accessed my website in a browser.
 
 
-# [Project 4: Cassava leaf disease classification using CNN](https://github.com/Phunbie/Caps)
+# [Project 5: Cassava leaf disease classification using CNN](https://github.com/Phunbie/Caps)
 
 ![alt text](malmanxx-Ne702NiB3xo-unsplash.jpg)
 
@@ -50,7 +59,7 @@ In this project, I used  convolutional neural networks to train a model that can
 * **Input:** Photo of the cassava plant
 * **Output:** Disease prediction
 
-# [Project 5: Customer propensity to purchase](https://github.com/Phunbie/midterm_prog1)
+# [Project 6: Customer propensity to purchase](https://github.com/Phunbie/midterm_prog1)
 
 ![alt text](rupixen-com-Q59HmzK38eQ-unsplash.jpg)
 
@@ -62,13 +71,13 @@ You get many visitors to your website every day, but you know only a small perce
 * **Input:** visitor's action on the website
 * **Output:** Propensity prediction
 
-# [Project 6: Energy consumption prediction web app](https://share.streamlit.io/phunbie/my_streamli_prog/main.py)
+# [Project 7: Energy consumption prediction web app](https://share.streamlit.io/phunbie/my_streamli_prog/main.py)
 ![alt text](streamlit-logo-primary-colormark-darktext.png)
 
 Created this webapp using streamlit library and I also deployed it in the cloud with the help of streamlit cloud. The web app helps in the visualisation of selected data, you can compare different variables and predict energy consumption using different machine learning models, you can also select predictor variables you want to use.
 * **Python libraries used:** Streamlit, Pandas, sklearn, Numpy, Seaborn, Pillow
 
-# [Project 7: Credit card approval prediction](https://github.com/Phunbie/credit-card-approval-prediction/blob/production/credit_approval.ipynb)
+# [Project 8: Credit card approval prediction](https://github.com/Phunbie/credit-card-approval-prediction/blob/production/credit_approval.ipynb)
 
 ![alt text](stephen-phillips-hostreviews-co-uk-em37kS8WJJQ-unsplash.jpg)
 
@@ -79,7 +88,7 @@ Photo by <a href="https://unsplash.com/@hostreviews?utm_source=unsplash&utm_medi
 * **Input:** Customer's information
 * **Output:** suitability for credit card approval
 
-# [Project 8:Event recommendation engine](https://jovian.ai/adeneyeoluwafunbi/event-recommendation-engine-challenge)
+# [Project 9:Event recommendation engine](https://jovian.ai/adeneyeoluwafunbi/event-recommendation-engine-challenge)
 
 ![alt text](jess-bailey-94Ld_MtIUf0-unsplash.jpg)
 
