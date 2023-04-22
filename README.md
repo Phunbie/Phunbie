@@ -14,7 +14,7 @@ This is a web application that allows users to ask questions about the content o
 
 
 
-# [Project 2: Django blog webapp](http://oluwafunbi.pythonanywhere.com/)
+# [Project 2: Django blog webapp](https://github.com/Phunbie/my-first-blog/tree/master)
 
 ![alt text](django.jpg)
     
