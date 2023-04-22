@@ -71,7 +71,7 @@ You get many visitors to your website every day, but you know only a small perce
 * **Input:** visitor's action on the website
 * **Output:** Propensity prediction
 
-# [Project 7: Energy consumption prediction web app](https://share.streamlit.io/phunbie/my_streamli_prog/main.py)
+# [Project 7: Energy consumption prediction web app](https://github.com/Phunbie/my_streamli_prog)
 ![alt text](streamlit-logo-primary-colormark-darktext.png)
 
 Created this webapp using streamlit library and I also deployed it in the cloud with the help of streamlit cloud. The web app helps in the visualisation of selected data, you can compare different variables and predict energy consumption using different machine learning models, you can also select predictor variables you want to use.
