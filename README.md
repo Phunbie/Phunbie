@@ -5,6 +5,14 @@
 * Several MOOCs on programming, Machine Learning, Data Science and software engineering.
 * Bachelors of Agriculture (Animal Breeding and Genetics), *Federal University of Agriculture Abeokuta*, 2010-2015
 
+# [Project 1: PDF Flask Chatbot with Langchain and  GPT 3.5 Turbo(Chat GPT)](https://github.com/Phunbie/Langchain-chat)
+
+![alt text](image-2.png)
+
+    
+
+This is a chatbot application built with Flask, Langchain, and OpenAI's GPT 3.5 turbo(ChatGPT) model. The chatbot can access the internet using DuckDuckGo and Wikipedia APIs, and can also run Python programs using Python REPL.
+
 # [Project 1: PDF question answering app](https://github.com/Phunbie/PDF-question-answering-app)
 
 ![alt text](image-2.png)
