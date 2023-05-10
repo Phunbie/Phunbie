@@ -7,7 +7,7 @@
 
 # [Project 1: PDF Flask Chatbot with Langchain and  GPT 3.5 Turbo(Chat GPT)](https://github.com/Phunbie/Langchain-chat)
 
-![alt text](image-2.png)
+![alt text](langchain.jpeg)
 
     
 
@@ -15,7 +15,7 @@ This is a chatbot application built with Flask, Langchain, and OpenAI's GPT 3.5 
 
 # [Project 2: PDF question answering app](https://github.com/Phunbie/PDF-question-answering-app)
 
-![alt text](image-2.png)
+![alt text](langchain.jpeg)
     
 
 This is a web application that allows users to ask questions about the content of a PDF file and receive answers. The application is built using the Flask microframework,langchain library was also used to help with processing the PDF file and utilisation of the large language model.
