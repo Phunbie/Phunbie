@@ -5,7 +5,7 @@
 * Several MOOCs on programming, Machine Learning, Data Science and software engineering.
 * Bachelors of Agriculture (Animal Breeding and Genetics), *Federal University of Agriculture Abeokuta*, 2010-2015
 
-# [Project 1: PDF Flask Chatbot with Langchain and  GPT 3.5 Turbo(Chat GPT)](https://github.com/Phunbie/Langchain-chat)
+# [Project 1: Flask Chatbot with Langchain and  GPT 3.5 Turbo(Chat GPT)](https://github.com/Phunbie/Langchain-chat)
 
 ![alt text](langchain.jpeg)
 
