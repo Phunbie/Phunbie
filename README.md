@@ -5,7 +5,15 @@
 * Several MOOCs on programming, Machine Learning, Data Science and software engineering.
 * Bachelors of Agriculture (Animal Breeding and Genetics), *Federal University of Agriculture Abeokuta*, 2010-2015
 
-# [Project 1: Flask Chatbot with Langchain and  GPT 3.5 Turbo(Chat GPT)](https://github.com/Phunbie/Langchain-chat)
+# [Project 1: Profile CRUD App](https://github.com/Phunbie/PHP-CRUD-project)
+
+![alt text](lamp-stack.jpg)
+
+    
+
+This is a simple CRUD app built with PHP and MySQL. It allows users to login and create, read, update, and delete their profile information, including their position, education, and more.
+
+# [Project 2: Flask Chatbot with Langchain and  GPT 3.5 Turbo(Chat GPT)](https://github.com/Phunbie/Langchain-chat)
 
 ![alt text](langchain.jpeg)
 
@@ -13,7 +21,7 @@
 
 This is a chatbot application built with Flask, Langchain, and OpenAI's GPT 3.5 turbo(ChatGPT) model. The chatbot can access the internet using DuckDuckGo and Wikipedia APIs, and can also run Python programs using Python REPL.
 
-# [Project 2: PDF question answering app](https://github.com/Phunbie/PDF-question-answering-app)
+# [Project 3: PDF question answering app](https://github.com/Phunbie/PDF-question-answering-app)
 
 ![alt text](langchain.jpeg)
     
@@ -22,7 +30,7 @@ This is a web application that allows users to ask questions about the content o
 
 
 
-# [Project 3: Django blog webapp](https://github.com/Phunbie/my-first-blog/tree/master)
+# [Project 4: Django blog webapp](https://github.com/Phunbie/my-first-blog/tree/master)
 
 ![alt text](django.jpg)
     
@@ -31,7 +39,7 @@ This project is a blog posting webapp where you can log in, write, post and edit
 
 
 
-# [Project 4: Flask CRUD web app(Job posting website)](https://flask-webapp.onrender.com/)
+# [Project 5: Flask CRUD web app(Job posting website)](https://flask-webapp.onrender.com/)
 
 ![alt text](image-2.png)
     
@@ -39,7 +47,7 @@ This project is a blog posting webapp where you can log in, write, post and edit
 I created a CRUD website where one can sign in , post a job that will appear on the homepage for everyone to see. For this project I had to use Flask python library, HTML,  sqlite, CSS and bootstrap. I also hosted it on a cloud platform.
 
 
-# [Project 5: AWS static web project](https://github.com/Phunbie/static-website)
+# [Project 6: AWS static web project](https://github.com/Phunbie/static-website)
 
 ![alt text](photo-1628573413574-2b35620de9d7.jpeg)
 
@@ -54,7 +62,7 @@ by performing the following steps.
 * Finally accessed my website in a browser.
 
 
-# [Project 6: Cassava leaf disease classification using CNN](https://github.com/Phunbie/Caps)
+# [Project 7: Cassava leaf disease classification using CNN](https://github.com/Phunbie/Caps)
 
 ![alt text](malmanxx-Ne702NiB3xo-unsplash.jpg)
 
@@ -67,7 +75,7 @@ In this project, I used  convolutional neural networks to train a model that can
 * **Input:** Photo of the cassava plant
 * **Output:** Disease prediction
 
-# [Project 7: Customer propensity to purchase](https://github.com/Phunbie/midterm_prog1)
+# [Project 8: Customer propensity to purchase](https://github.com/Phunbie/midterm_prog1)
 
 ![alt text](rupixen-com-Q59HmzK38eQ-unsplash.jpg)
 
@@ -79,13 +87,13 @@ You get many visitors to your website every day, but you know only a small perce
 * **Input:** visitor's action on the website
 * **Output:** Propensity prediction
 
-# [Project 8: Energy consumption prediction web app](https://github.com/Phunbie/my_streamli_prog)
+# [Project 9: Energy consumption prediction web app](https://github.com/Phunbie/my_streamli_prog)
 ![alt text](streamlit-logo-primary-colormark-darktext.png)
 
 Created this webapp using streamlit library and I also deployed it in the cloud with the help of streamlit cloud. The web app helps in the visualisation of selected data, you can compare different variables and predict energy consumption using different machine learning models, you can also select predictor variables you want to use.
 * **Python libraries used:** Streamlit, Pandas, sklearn, Numpy, Seaborn, Pillow
 
-# [Project 9: Credit card approval prediction](https://github.com/Phunbie/credit-card-approval-prediction/blob/production/credit_approval.ipynb)
+# [Project 10: Credit card approval prediction](https://github.com/Phunbie/credit-card-approval-prediction/blob/production/credit_approval.ipynb)
 
 ![alt text](stephen-phillips-hostreviews-co-uk-em37kS8WJJQ-unsplash.jpg)
 
@@ -96,7 +104,7 @@ Photo by <a href="https://unsplash.com/@hostreviews?utm_source=unsplash&utm_medi
 * **Input:** Customer's information
 * **Output:** suitability for credit card approval
 
-# [Project 10:Event recommendation engine](https://jovian.ai/adeneyeoluwafunbi/event-recommendation-engine-challenge)
+# [Project 11:Event recommendation engine](https://jovian.ai/adeneyeoluwafunbi/event-recommendation-engine-challenge)
 
 ![alt text](jess-bailey-94Ld_MtIUf0-unsplash.jpg)
 
